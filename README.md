@@ -5,6 +5,9 @@ Landing page MyBike
 Used technologies:
 
 HTML
+
 CSS/SCSS
+
 BEM
+
 JS

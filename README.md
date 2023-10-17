@@ -18,10 +18,4 @@ This is a landing page for a bike shop called "My Bike". The page is designed to
 * BEM
 * JavaScript
 
-- [DEMO LINK](https://oleksandrnikora.github.io/MyBike-landing/)
-Used technologies:
-
-HTML
-CSS/SCSS
-BEM
-JS
+[DEMO LINK](https://oleksandrnikora.github.io/MyBike-landing/)
